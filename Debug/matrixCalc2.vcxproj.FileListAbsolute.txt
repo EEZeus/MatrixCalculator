@@ -1,0 +1,2 @@
+C:\Users\SEi\source\repos\matrixCalc2\Debug\matrixCalc2.exe
+C:\Users\SEi\source\repos\matrixCalc2\Debug\matrixCalc2.pdb

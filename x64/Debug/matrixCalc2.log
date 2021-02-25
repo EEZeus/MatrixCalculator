@@ -1,0 +1,4 @@
+﻿  matrixCalc2.cpp
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(377,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(420,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  matrixCalc2.vcxproj -> C:\Users\SEi\source\repos\matrixCalc2\x64\Debug\matrixCalc2.exe

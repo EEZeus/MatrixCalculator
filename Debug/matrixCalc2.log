@@ -1,0 +1,12 @@
+﻿  matrixCalc2.cpp
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(305,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(307,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(321,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(331,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(333,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(338,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(348,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(351,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(358,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEi\source\repos\matrixCalc2\matrixCalc2.cpp(360,27): warning C4018: '<': signed/unsigned mismatch
+  matrixCalc2.vcxproj -> C:\Users\SEi\source\repos\matrixCalc2\Debug\matrixCalc2.exe
